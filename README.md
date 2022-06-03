@@ -3,8 +3,6 @@
 ### Olá sou o Matheus Lima👋
 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 
 
 <div align="center">
